@@ -23,9 +23,9 @@
             <version>5.3.4</version>
         </dependency>
         <dependency>
-            <groupId>org.wso2.orbit.org.apache.oltu.oauth2</groupId>
-            <artifactId>oltu</artifactId>
-            <version>1.0.0.wso2v3</version>
+            <groupId>org.apache.amber.wso2</groupId>
+            <artifactId>amber</artifactId>
+            <version>0.22.1358727.wso2v4</version>
         </dependency>
     </dependencies>
 </project>
